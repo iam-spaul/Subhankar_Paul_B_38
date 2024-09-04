@@ -1,0 +1,5 @@
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
+c = float(input("Enter the third number: "))
+maximum = max(a, b, c)
+print(f"The maximum of {a}, {b}, and {c} is {maximum}.")
